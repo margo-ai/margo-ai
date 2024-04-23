@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div id="stats">
   <h2>Stats</h2>
-  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=margo-ai&theme=aura_dark&show_icons=true" alt="GitHub Streak"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=margo-ai)](https://github.com/anuraghazra/github-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=margo-ai&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 </div>
 
