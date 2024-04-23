@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 <div id="stats">
   <h2>Stats</h2>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=margo-ai&theme=nord_dark" alt="Github Stats"/>
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=margo-ai&theme=nord_dark" alt="Github Stats"/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=margo-ai&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 </div>
 
