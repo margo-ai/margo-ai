@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <div id="stats">
   <h2>Stats</h2>
   <img src="https://streak-stats.demolab.com?user=[your username]&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your username]&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=margo-ai&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 </div>
 
 ---
